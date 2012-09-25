@@ -17,6 +17,7 @@ ListaContabil::~ListaContabil() {
 	// TODO Auto-generated destructor stub
 }
 
+
 int ListaContabil::adiciona(Lancamento dado){
 	if(cheia())
 		return LISTA_CHEIA;
