@@ -13,6 +13,7 @@ ListaContabil::ListaContabil() {
 
 }
 
+
 ListaContabil::~ListaContabil() {
 	// TODO Auto-generated destructor stub
 }
